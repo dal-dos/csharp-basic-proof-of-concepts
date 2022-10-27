@@ -1,0 +1,9 @@
+D:\Visual Studio Projects\Comparing and Converting\bin\Debug\Comparing and Converting.exe.config
+D:\Visual Studio Projects\Comparing and Converting\bin\Debug\Comparing and Converting.exe
+D:\Visual Studio Projects\Comparing and Converting\bin\Debug\Comparing and Converting.pdb
+D:\Visual Studio Projects\Comparing and Converting\obj\Debug\Comparing and Converting.csprojAssemblyReference.cache
+D:\Visual Studio Projects\Comparing and Converting\obj\Debug\Comparing_and_Converting.Form1.resources
+D:\Visual Studio Projects\Comparing and Converting\obj\Debug\Comparing_and_Converting.Properties.Resources.resources
+D:\Visual Studio Projects\Comparing and Converting\obj\Debug\Comparing and Converting.csproj.GenerateResource.cache
+D:\Visual Studio Projects\Comparing and Converting\obj\Debug\Comparing and Converting.exe
+D:\Visual Studio Projects\Comparing and Converting\obj\Debug\Comparing and Converting.pdb

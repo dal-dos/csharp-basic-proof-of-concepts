@@ -1,0 +1,9 @@
+D:\Visual Studio Projects\Loops\obj\Debug\Loops.csprojAssemblyReference.cache
+D:\Visual Studio Projects\Loops\obj\Debug\Loops.Form1.resources
+D:\Visual Studio Projects\Loops\obj\Debug\Loops.Properties.Resources.resources
+D:\Visual Studio Projects\Loops\obj\Debug\Loops.csproj.GenerateResource.cache
+D:\Visual Studio Projects\Loops\bin\Debug\Loops.exe.config
+D:\Visual Studio Projects\Loops\bin\Debug\Loops.exe
+D:\Visual Studio Projects\Loops\bin\Debug\Loops.pdb
+D:\Visual Studio Projects\Loops\obj\Debug\Loops.exe
+D:\Visual Studio Projects\Loops\obj\Debug\Loops.pdb
